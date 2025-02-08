@@ -1,16 +1,15 @@
 # Topics in Software Engineering
 
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
+Name: GoalSync, Social/Community Habit Tracker App
 
-# Tools
-The tools that are installed with this devcontainer are:
+This project is a mobile app or website that aims to tackle the common challenge of maintaining motivation and accountability when working towards personal goals. Many students struggle with sticking to their habits and tracking progress over time, even if they desire improvement, especially students that have ADHD or other disorders/attention issues. 
 
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
+In order to develop better study habits, GoalSync would offer a social, interactive experience where users can connect, collaborate and compete with their peers. The app gamifies progress by allowing groups of users, who can be friends, classmates, or even strangers, to set and monitor shared goals, encouraging mutual support and even possibly some healthy competition. I imagine it like a habit tracker, except friends that you trust and rely on can also see your progress and work on the habit together. A possible special feature could be something like streaks on snapchat or duolingo, except for habits that people sustain together every day. Some friends might have a higher streak than others, which builds the motivation to do better. 
 
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+Gym buddies can track their fitness goals together. People who want to read more can track their monthly book reviews and share/post about their journey. During Ramadan or other sacred periods of all faiths, people can work on their religious goals together through-out the month and strive to be better through social sharing and real time progress updates. This makes personal growth and building habits more engaging, interactive, fun and sustainable.
+
+Primary Audience:
+
+The primary users of GoalSync would most likely be college students looking to improve productivity, but also people of all ages and backgrounds who are highly motivated, but struggle with consistency & accountability in areas like studying, fitness, or mental health.
+
+Other users could be young professionals and people in tight knit communities like book clubs, creative teams, religions, or fitness groups who want to connect with others while pursuing self improvement. I'd also like to believe that this would be helpful for people with ADHD or a mental illness- for example, a group of people who suffer from anxiety could use this app together as a tool to build habits that lessen their symptoms.
